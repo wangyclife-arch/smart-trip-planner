@@ -1,4 +1,4 @@
-﻿# Smart Trip Planner · 智能旅行助手
+# Smart Trip Planner · 智能旅行助手
 
 > 基于多智能体与 MCP 的 AI 旅行规划应用：输入目的地、日期与偏好，自动生成包含景点、天气、酒店、预算和地图路线的完整行程。
 
@@ -6,10 +6,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115%2B-009688?logo=fastapi&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-3.5-4FC08D?logo=vue.js&logoColor=white)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey)
-
-## 界面预览
-
-![Smart Trip Planner 界面](docs/screenshot.png)
 
 ## 简介
 
