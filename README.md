@@ -246,5 +246,3 @@ curl -X POST http://localhost:8000/api/trip/plan \
 ## License
 
 [CC BY-NC-SA 4.0](LICENSE) © 2025 Smart Trip Planner contributors
-
-本作品仅限非商业用途；转载或二次开发需保留署名，并以相同协议共享。
