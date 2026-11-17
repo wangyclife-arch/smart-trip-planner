@@ -1,0 +1,21 @@
+Smart Trip Planner
+Copyright (c) 2025 Smart Trip Planner contributors
+
+This project is derived from the open-source tutorial "Hello-Agents"
+(Chapter 13: Intelligent Travel Assistant) by Datawhale.
+
+  Source:  https://github.com/datawhalechina/Hello-Agents
+  License: CC BY-NC-SA 4.0
+
+Modifications made in this repository:
+  - Reorganized the chapter example into a standalone backend/frontend project
+  - Removed tutorial documentation and unused scaffolding
+  - Fixed the trip health check and attraction photo endpoint wiring
+  - Added project metadata (README, .gitignore, .editorconfig, NOTICE)
+
+The upstream tutorial and this derivative work are licensed under
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+You may share and adapt the material for non-commercial purposes, provided
+that attribution is preserved and derivative works use the same license.
+
+See LICENSE for the full license text.
